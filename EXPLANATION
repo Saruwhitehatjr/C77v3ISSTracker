@@ -1,0 +1,28 @@
+https://www.geeksforgeeks.org/difference-between-npm-and-yarn/
+
+
+install stack navigator on cmd
+
+"yarn add @react-navigation/stack" or
+npm install @react-navigation/stack
+
+and "yarn add @react-navigation/native" or
+npm install @react-navigation/native
+
+“npm install -g yarn”
+
+expo install react-native-gesture-handler
+expo install react-native-reanimated
+expo install react-native-screens
+expo install react-native-safe-area-context
+expo install @react-native-community/masked-view
+
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+expo install @react-navigation/stack    
+===================================
+
+import react-native-gesture-handler
+It is recommended for use with react-navigation because it
+enhances the touch experiences of the user and gives nice
+interactivity to the app. 
